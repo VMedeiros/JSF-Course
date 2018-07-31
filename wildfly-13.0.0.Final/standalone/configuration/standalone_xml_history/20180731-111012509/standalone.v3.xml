@@ -515,8 +515,8 @@
         <deployment name="jsf_course_war_exploded.war" runtime-name="jsf_course_war_exploded.war">
             <fs-exploded path="C:\Dev_Victor\JSF-Course\out\artifacts\jsf_course_war_exploded.war"/>
         </deployment>
-        <deployment name="jsf_course.war" runtime-name="jsf_course.war" enabled="false">
-            <fs-exploded path="C:\Dev_Victor\JSF-Course\out\artifacts\jsf_course.war"/>
+        <deployment name="jsf-course.war" runtime-name="jsf-course.war">
+            <fs-archive path="C:\Dev_Victor\JSF-Course\out\artifacts\jsf_course.war\jsf-course.war"/>
         </deployment>
     </deployments>
 </server>

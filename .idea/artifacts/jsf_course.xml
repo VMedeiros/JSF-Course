@@ -1,11 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="jsf-course:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/jsf_course_war_exploded.war</output-path>
+  <artifact type="exploded-war" name="jsf-course">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsf_course.war</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="jsf-course/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="jsf-course" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.10" />
         </element>
       </element>
     </root>
