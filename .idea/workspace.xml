@@ -7,25 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a03a00e8-2dac-4951-8279-a296d077cb55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_primefaces_primefaces_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bean/estudante/EstudanteRegistrarBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/enums/Turno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jsf_course.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/jsf_course.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index2.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsf-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jsf-course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/jsf_course.war/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jsf_course.war/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jsf_course.war/WEB-INF/classes/bean/estudante/EstudanteRegistrarBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jsf_course.war/WEB-INF/classes/bean/estudante/EstudanteRegistrarBean.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/jsf_course.war/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jsf_course.war/index.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bean/estudante/EstudanteRegistrarBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bean/estudante/EstudanteRegistrarBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean/estudante/EstudanteRegistrarBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean/estudante/EstudanteRegistrarBean.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/log/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/log/server.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/startup-marker" beforeDir="false" afterPath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/startup-marker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deployment56ae0878838a58aa/jsf-api-2.2.10.jar-3c198f150d6611d2/jsf-api-2.2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/jsf-api-2.2.10.jar-da530bcc7a311abe/jsf-api-2.2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces-aristo/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces-omega/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces/components-mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces/components.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces/components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/contents/META-INF/resources/primefaces/dynamiccontent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wildfly-13.0.0.Final/standalone/tmp/vfs/deployment/deploymentac6de1717065ac90/primefaces-6.2.jar-5fe84cc9b060f7cc/primefaces-6.2.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,7 +48,7 @@
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="4" />
-          <entry key="xhtml" value="1" />
+          <entry key="xhtml" value="2" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -57,21 +56,21 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="4" />
-          <entry key="XHTML" value="1" />
+          <entry key="XHTML" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="458" />
-          <entry key="xhtml" value="845" />
+          <entry key="java" value="687" />
+          <entry key="xhtml" value="1251" />
           <entry key="xml" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="458" />
-          <entry key="XHTML" value="845" />
+          <entry key="JAVA" value="687" />
+          <entry key="XHTML" value="1251" />
           <entry key="XML" value="204" />
         </counts>
       </usages-collector>
@@ -83,17 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="351">
               <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -101,8 +91,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="136">
+              <caret line="75" column="48" lean-forward="true" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index2.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -110,10 +109,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/bean/estudante/EstudanteRegistrarBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="105">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1465#1466#0" expanded="true" />
                 <element signature="e#828#829#0" expanded="true" />
                 <element signature="e#860#861#0" expanded="true" />
                 <element signature="e#913#914#0" expanded="true" />
@@ -145,6 +146,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="jsf" />
       </list>
     </option>
   </component>
@@ -158,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/main/java/model/enums/Turno.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Estudante.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/index2.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/bean/estudante/EstudanteRegistrarBean.java" />
         <option value="$PROJECT_DIR$/web/index.xhtml" />
       </list>
@@ -245,12 +248,6 @@
               <item name="JSF-Course" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jsf-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSF-Course" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533068598780" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533144992656" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -372,12 +369,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533040838109</updated>
       <workItem from="1533040842225" duration="974000" />
-      <workItem from="1533045513560" duration="14608000" />
+      <workItem from="1533045513560" duration="21085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15595000" />
+    <option name="totallyTimeSpent" value="22072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -433,20 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/enums/Turno.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -487,12 +470,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index2.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bean/estudante/EstudanteRegistrarBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="105">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1465#1466#0" expanded="true" />
             <element signature="e#828#829#0" expanded="true" />
             <element signature="e#860#861#0" expanded="true" />
             <element signature="e#913#914#0" expanded="true" />
@@ -519,8 +525,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="136">
+          <caret line="75" column="48" lean-forward="true" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
         </state>
       </provider>
     </entry>

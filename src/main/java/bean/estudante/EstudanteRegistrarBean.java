@@ -22,14 +22,35 @@ public class EstudanteRegistrarBean implements Serializable {
         nomesMap.put("Teste2", " Falha");
         nomesMap.put("Teste3", " ok");
 
-        for (String nome : nomesSet){
-            System.out.println(nome);
-        }
+//        for (String nome : nomesSet){
+//            System.out.println(nome);
+//        }
+//
+//        for (Map.Entry<String, String> entry : nomesMap.entrySet()){
+//            System.out.println(entry.getKey());
+//            System.out.println(entry.getValue());
+//        }
+    }
 
-        for (Map.Entry<String, String> entry : nomesMap.entrySet()){
-            System.out.println(entry.getKey());
-            System.out.println(entry.getValue());
-        }
+    public void executar(){
+        System.out.println("Fazendo uma busca no BD");
+        System.out.println("Processando os dados");
+        System.out.println("Exibindo os dados");
+    }
+
+    public void executar(String param){
+        System.out.println("Fazendo uma busca no BD com o PARAMETRO: ");
+        System.out.println("Processando os dados");
+        System.out.println("Exibindo os dados");
+    }
+
+    public String executarRetorno(String param){
+        return "Retorno" + param;
+    }
+
+    public String irParaIndex2(){
+        /*redirecionar e mostrar a URL --- ?faces-redirect=true*/
+        return "index2?faces-redirect=true";
     }
 
     public Estudante getEstudante() {
